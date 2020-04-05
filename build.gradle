@@ -10,7 +10,14 @@ repositories {
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
+
 }
+
+
 
 
 jar {
@@ -23,3 +30,16 @@ jar {
     destinationDirectory = file("$rootDir/my-jar")
     archivesBaseName = 'app'
 }
+
+
+test {
+    useJUnitPlatform()
+}
+
+bootRun.environment([
+        "WELCOME_MESSAGE": "hello Jegan!",
+])
+
+test.environment([
+        "WELCOME_MESSAGE": "Hello from test",
+])
