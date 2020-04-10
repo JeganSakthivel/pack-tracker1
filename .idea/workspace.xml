@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78a9d1b-00ed-4637-915f-4018d0988e68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/pipeline.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pipeline.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/app.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/app.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/migrate-databases.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/migrate-databases.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/pivotal/pal/tracker/PalTrackerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pivotal/pal/tracker/PalTrackerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/pivotal/pal/trackerapi/TimeEntryApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/pivotal/pal/trackerapi/TimeEntryApiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
