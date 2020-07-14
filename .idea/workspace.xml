@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78a9d1b-00ed-4637-915f-4018d0988e68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/pipeline.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pipeline.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/migrate-databases.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/migrate-databases.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,6 +199,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="471" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586275788285" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1594718125252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594718125252" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1594562981597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -236,6 +239,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591412691084" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1594718125252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594718125252" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1594355232193">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
